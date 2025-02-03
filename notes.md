@@ -1,0 +1,7 @@
+- need to flip upvector, forwardvector since imu x points down
+- need to average foot frame forces
+- add home keyframe
+- rough terrain keyframe needs to be different (higher?)
+- pip install not working?
+- double-check foot frame later
+- should ROOT_BODY be torso_link or base_link?
